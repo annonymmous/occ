@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "atca_iface.h": "c",
+        "ostream": "c"
+    }
+}
